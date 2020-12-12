@@ -1,0 +1,6 @@
+include ':databindingtest'
+include ':livedatatest'
+include ':viewmodeltest'
+include ':screenorientationtest'
+include ':app'
+rootProject.name = "JavaTest"
